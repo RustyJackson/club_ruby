@@ -22,6 +22,6 @@ Some sample people have been provided for you in `script.rb`.
 ## Bonuses
 
 1. Determine whether or not a person can be served alcohol (that is: whether they're 21 or over)
-- Create a new key/value pair for each `person` with `served` as a boolean
-- Create an array for all people rejected from the club for being too young to enter
+1. Create a new key/value pair for each `person` with `served` as a boolean
+1. Create an array for all people rejected from the club for being too young to enter
 
